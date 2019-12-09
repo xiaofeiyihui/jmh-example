@@ -1,0 +1,3 @@
+JMH S 14 test.BenchMark S 46 test.generated.BenchMark_arrayTraverse_jmhTest S 13 arrayTraverse S 10 Throughput E A 1 1 1 E I 1 4 E E I 2 10 E E I 1 2 E E E E E M 1 1 n 4 2 10 2 40 2 70 3 100 U 12 MILLISECONDS E E 
+JMH S 14 test.BasicType S 39 test.generated.BasicType_intSum_jmhTest S 6 intSum S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
+JMH S 14 test.BenchMark S 45 test.generated.BenchMark_listTraverse_jmhTest S 12 listTraverse S 10 Throughput E A 1 1 1 E I 1 4 E E I 2 10 E E I 1 2 E E E E E M 1 1 n 4 2 10 2 40 2 70 3 100 U 12 MILLISECONDS E E 
